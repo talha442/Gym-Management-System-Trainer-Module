@@ -1,0 +1,14 @@
+.Equipmenttbl{
+    background-color: #0fb986; 
+    font-size: 20px;
+    border: 2px solid #000;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+.Equipmenttbl td, .Equipmenttbl th{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 8px;
+}
+
