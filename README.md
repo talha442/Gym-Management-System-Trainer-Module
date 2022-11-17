@@ -1,2 +1,2 @@
-# Gym Management-p-dc-app-main---Trainer
+# Gym Management System Trainer Module
  
